@@ -6,11 +6,11 @@ I trained in microbiology, then did my MSc in Cancer Biology & Therapeutics at C
 
 This GitHub is where I'm doing that. Every project here starts with a real biological question, uses open data, and is written so anyone can rerun it.
 
-### 🔬 What I'm working on
+### 🔬 Projects
 
-- **BRCA2 & PARP inhibitors:** do BRCA2-deficient cancer cells really respond better to PARP inhibitors, and what else are they vulnerable to? *(DepMap · Python)*
-- **Zinc transporters in cancer:** turning my MSc literature review into data. Which SLC30A genes change in tumours, and do they track with patient survival? *(TCGA · R)*
-- **Interpretable ML:** a model that makes predictions from tumour gene expression, built so you can see *why* it predicts what it does. *(scikit-learn · SHAP)*
+- **[BRCA2 & PARP inhibitors](https://github.com/prithviraj-dasgupta/brca2-parp-depmap):** do BRCA2-deficient cancer cells really respond better to PARP inhibitors? The answer was more complicated than the textbook story. *(DepMap · Python)*
+- **[Zinc transporters in cancer](https://github.com/prithviraj-dasgupta/znt-slc30a-tcga):** turning my MSc literature review into data. Which SLC30A genes change in tumours, and do they track with patient survival? *(TCGA · Python · survival analysis)*
+- **[Where did this tumour come from?](https://github.com/prithviraj-dasgupta/tcga-tissue-of-origin):** a model that names a tumour's tissue of origin from its gene expression, right 96% of the time across 33 cancer types. The part I liked most was using SHAP to look inside it. It had rediscovered the markers pathologists stain for, and it also caught the model using a shortcut it didn't need. *(TCGA · scikit-learn · LightGBM · SHAP)*
 
 ### 🧰 Tools I use
 
