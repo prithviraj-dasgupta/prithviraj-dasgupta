@@ -1,5 +1,7 @@
 # Hey, I'm Prithviraj 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&vCenter=true&width=520&lines=Cancer+biologist+working+with+open+data;Single-cell+%C2%B7+TCGA+%C2%B7+DepMap;Asking+biological+questions+with+code)](https://github.com/prithviraj-dasgupta)
+
 I'm a cancer biologist who got curious about what the data could tell me that the bench couldn't.
 
 I trained in microbiology, then did my MSc in Cancer Biology & Therapeutics at Cardiff University. There I explored synthetic lethality between BRCA2 loss and PARP inhibition, and wrote my dissertation on zinc transporters (ZnT/SLC30A) in cancer. Both left me with the same itch: a lot of the answers were already sitting in public datasets like DepMap and TCGA, and I wanted to be able to go and find them myself.
