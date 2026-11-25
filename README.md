@@ -34,3 +34,5 @@ I produce music and DJ as **mimo_gol**. It turns out finding patterns in sound a
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="26" alt="speech bubble" /> Say hi
 
 [LinkedIn](https://www.linkedin.com/in/prithviraj-dasgupta-2a6127168) · always happy to talk cancer biology, data, or music.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:58A6FF,100:A371F7" width="100%" alt="" />
