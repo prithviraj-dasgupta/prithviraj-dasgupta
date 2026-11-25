@@ -1,34 +1,97 @@
-# Hey, I'm Prithviraj 👋
+## Learning log
 
-I'm a cancer biologist who got curious about what the data could tell me that the bench couldn't.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=prithviraj-dasgupta&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128365584%3Fu%3D8123e2d6df8d35a97cd9cec1af7fb12893928c86%26v%3D4" alt="prithviraj-dasgupta hero visual" />
+</p>
 
-I trained in microbiology, then did my MSc in Cancer Biology & Therapeutics at Cardiff University. There I explored synthetic lethality between BRCA2 loss and PARP inhibition, and wrote my dissertation on zinc transporters (ZnT/SLC30A) in cancer. Both left me with the same itch: a lot of the answers were already sitting in public datasets like DepMap and TCGA, and I wanted to be able to go and find them myself.
+**Prithviraj Dasgupta** · Backend or systems engineer
 
-This GitHub is where I'm doing that. Every project here starts with a real biological question, uses open data, and is written so anyone can rerun it.
+## Currently learning
 
-### 🔬 Projects
+> MSc Cancer Biology &amp; Therapeutics @ Cardiff University · interested in computational cancer biology &amp; tumour immunology · building bioinformatics + web projects
 
-- **[BRCA2 & PARP inhibitors](https://github.com/prithviraj-dasgupta/brca2-parp-depmap):** do BRCA2-deficient cancer cells really respond better to PARP inhibitors? The answer was more complicated than the textbook story. *(DepMap · Python)*
-- **[Zinc transporters in cancer](https://github.com/prithviraj-dasgupta/znt-slc30a-tcga):** turning my MSc literature review into data. Which SLC30A genes change in tumours, and do they track with patient survival? *(TCGA · Python · survival analysis)*
-- **[Where did this tumour come from?](https://github.com/prithviraj-dasgupta/tcga-tissue-of-origin):** a model that names a tumour's tissue of origin from its gene expression, right 96% of the time across 33 cancer types. The part I liked most was using SHAP to look inside it. It had rediscovered the markers pathologists stain for, and it also caught the model using a shortcut it didn't need. *(TCGA · scikit-learn · LightGBM · SHAP)*
-- **[Melanoma, one cell at a time](https://github.com/prithviraj-dasgupta/melanoma-scrnaseq):** my first single-cell project. I took about 4,600 cells from 19 melanomas (Tirosh et al. 2016), grouped and labelled them by cell type, and worked out which ones were cancer cells from copy-number changes alone, agreeing with the authors' labels 91.5% of the time. Then I asked whether melanoma cells split into an MITF-high state and the AXL-high state linked to drug resistance. They do, but mostly between patients rather than within one tumour. *(scRNA-seq · Scanpy · infercnvpy · tested pipeline with CI)*
+**Learning next**
 
-### 🧰 Tools I use
+- Python
+- Jupyter Notebook
+- Shell
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-1F4E79)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+📍 Based in **Cardiff, UK** · 🏢 Working at **Cardiff University** · 👥 **0** followers · **0** following
 
-### 🎧 Outside the lab
+## Tools I’m practicing
 
-I produce music and DJ as **mimo_gol**. It turns out finding patterns in sound and finding patterns in gene expression aren't so different.
+- **Python** · 75%
+- **Jupyter Notebook** · 25%
 
-### 📫 Say hi
+## Projects in progress
 
-[LinkedIn](https://www.linkedin.com/in/prithviraj-dasgupta-2a6127168) · always happy to talk cancer biology, data, or music.
+<details>
+<summary><b>cancer-fingerprints</b> · Python</summary>
+
+Reads a tumour's mutations and explains, in plain English, what they are consistent with.<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/prithviraj-dasgupta/cancer-fingerprints)
+</details>
+
+<details>
+<summary><b>brca2-parp-depmap</b> · Jupyter Notebook</summary>
+
+Do BRCA2-mutant cancer cell lines respond better to PARP inhibitors? Analysis of DepMap CRISPR and PRISM drug data.<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/prithviraj-dasgupta/brca2-parp-depmap)
+</details>
+
+<details>
+<summary><b>znt-slc30a-tcga</b> · Python</summary>
+
+ZnT/SLC30A zinc transporter expression and survival across 33 TCGA cancer types, with paired checks, Cox models and SHAP-explained ML<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/prithviraj-dasgupta/znt-slc30a-tcga)
+</details>
+
+<details>
+<summary><b>tcga-tissue-of-origin</b> · Python</summary>
+
+Interpretable ML classifier that predicts a tumour's tissue of origin from RNA-seq across 33 TCGA cancer types, with SHAP<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/prithviraj-dasgupta/tcga-tissue-of-origin)
+</details>
+
+<details>
+<summary><b>melanoma-scrnaseq</b> · Python</summary>
+
+Malignant vs non-malignant cells in human melanoma scRNA-seq (Tirosh 2016) with Scanpy and inferred CNV<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/prithviraj-dasgupta/melanoma-scrnaseq)
+</details>
+
+## Progress so far
+
+- **Current streak:** 6 days
+- **Longest streak:** 6 days
+- **Active days:** 7 days
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=prithviraj-dasgupta&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128365584%3Fu%3D8123e2d6df8d35a97cd9cec1af7fb12893928c86%26v%3D4" alt="prithviraj-dasgupta stats visual" />
+</p>
+
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=prithviraj-dasgupta&theme=neon" alt="prithviraj-dasgupta contribution activity" />
+</p>
+
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=prithviraj-dasgupta&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128365584%3Fu%3D8123e2d6df8d35a97cd9cec1af7fb12893928c86%26v%3D4" alt="prithviraj-dasgupta social visual" />
+</p>
+
+<a href="https://github.com/prithviraj-dasgupta">GitHub</a>
+
+<p align="center"><sub>Prithviraj Dasgupta · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
